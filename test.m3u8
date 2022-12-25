@@ -8,9 +8,9 @@ INDONESIA
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://i.ibb.co/gVR4RsF/tvri.png", TVRI
 https://av-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://cutt.ly/6d02Zd7.png", INDOSIAR
+#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://thumbor.prod.vidiocdn.com/6_ilo1sVpgPuKNo0D1xeHwZNVw0=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-bb689b.jpg", INDOSIAR
 http://45.126.83.51/session/d9b4d8c2-16fd-11ed-9456-8deb966d4992/qwr9ew/s/s04/01.m3u8
-#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://cutt.ly/bd09n00.png", SCTV
+#EXTINF: -1tvg-ID group-title = "INDONESIA" tvg-logo = "https://thumbor.prod.vidiocdn.com/WL48ZBsxNGEncu7T5Bj0LuOmG2A=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
 http://45.126.83.51/session/a31c4732-16fd-11ed-82b4-b2958e4ef18d/qwr9ew/s/s03/01.m3u8
 #KODIPROP: inputstream.adaptive.license_type = com.widevine.alpha
 #KODIPROP: inputstream.adaptive.license_key =https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
